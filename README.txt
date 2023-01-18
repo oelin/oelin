@@ -1,12 +1,13 @@
-#!/bin/tail -n+2
-    _ _ _
-  /_/_/_/\
- /_/_/_/\/\
-/_/_/_/\/\/\
-\_\_\_\/\/\/
- \_\_\_\/\/
-  \_\_\_\/
+$ cat /bin/cat
 
+    /\_____/\
+   /  o   o  \
+  ( ==  ^  == )
+   )         (
+  (           )
+ ( (  )   (  ) )
+(__(__)___(__)__)
+               
 Hey, I'm Oelin. I'm currently an MSc computer science 
 undergraduate at University College London. 
 
