@@ -1,12 +1,16 @@
 $ cat /bin/cat
 
-    /\_____/\
-   /  o   o  \
-  ( ==  ^  == )
-   )         (
-  (           )
- ( (  )   (  ) )
-(__(__)___(__)__)
+  ,-.       _,---._ __  / \
+ /  )    .-'       `./ /   \    Meow!
+(  (   ,'            `/    /|   I'm a strange loop!
+ \  `-"             \'\   / |
+  `.              ,  \ \ /  |
+   /`.          ,'-`----Y   |
+  (            ;        |   '
+  |  ,-.    ,-'         |  /
+  |  | (   |            | /
+  )  |  \  `.___________|/
+  `--'   `--'
                
 Hey, I'm Oelin. I'm currently an MSc computer science 
 undergraduate at University College London. 
