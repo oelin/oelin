@@ -14,5 +14,4 @@ $ cat /usr/bin/cat
                
 Hey, I'm Oelin. I'm currently an MSc computer science 
 undergraduate at University College London. I'm a fan 
-of penetration testing and theoretical statistics and
-cats <3.
+of penetration testing, data science and cats <3.
