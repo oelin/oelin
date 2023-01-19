@@ -11,7 +11,3 @@ $ cat /usr/bin/cat
   |  | (   |            | /
   )  |  \  `.___________|/
   `--'   `--'
-               
-Hey, I'm Oelin. I'm currently an MSc computer science 
-undergraduate at University College London. I'm a fan 
-of penetration testing, data science and cats <3.
